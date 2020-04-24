@@ -1,0 +1,6 @@
+http://localhost:3000 
+
+sudo apt-get update
+sudo apt install -y mongodb
+sudo systemctl status mongodb
+
